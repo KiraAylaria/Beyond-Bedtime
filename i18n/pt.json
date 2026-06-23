@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Desmaio desativado (apenas hoje)",
+  "passout-enabled": "Desmaio reativado",
+  "config.section.passout": "Hora do desmaio",
+  "config.passout-time.name": "Hora do desmaio",
+  "config.passout-time.tooltip": "A hora em que o personagem desmaia.",
+  "config.section.hotkeys": "Teclas de atalho",
+  "config.toggle-key.name": "Alternar desmaio",
+  "config.toggle-key.tooltip": "Ativar/desativar o desmaio para hoje.",
+  "config.mod-enabled.name": "Mod ativado",
+  "config.mod-enabled.tooltip": "Ativa ou desativa todo o mod.",
+  "config.morning-light-start.name": "Início da luz da manhã",
+  "config.morning-light-start.tooltip": "Quando o mundo deve começar a clarear? (Desligado = Desativado)",
+  "config.morning-light-power.name": "Curva da luz da manhã",
+  "config.morning-light-power.tooltip": "Curva de intensidade da luz da manhã, para maior realismo. (1 = linear, 2 = quadrado/início mais lento, etc.)",
+  "config.off": "Desligado"
+}

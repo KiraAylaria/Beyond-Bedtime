@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "기절 비활성화 (오늘만)",
+  "passout-enabled": "기절 재활성화",
+  "config.section.passout": "기절 시간",
+  "config.passout-time.name": "기절 시간",
+  "config.passout-time.tooltip": "캐릭터가 기절하는 시간입니다.",
+  "config.section.hotkeys": "단축키",
+  "config.toggle-key.name": "기절 켜기/끄기",
+  "config.toggle-key.tooltip": "오늘의 기절을 활성화하거나 비활성화합니다.",
+  "config.mod-enabled.name": "모드 활성화",
+  "config.mod-enabled.tooltip": "모드 전체를 활성화하거나 비활성화합니다.",
+  "config.morning-light-start.name": "아침 빛 시작",
+  "config.morning-light-start.tooltip": "언제부터 세상이 밝아지기 시작해야 할까요? (끄기 = 비활성화)",
+  "config.morning-light-power.name": "아침 빛 커브",
+  "config.morning-light-power.tooltip": "더 사실적으로 만들기 위한 아침 빛 강도 커브입니다. (1 = 선형, 2 = 제곱/느린 시작 등)",
+  "config.off": "끄기"
+}

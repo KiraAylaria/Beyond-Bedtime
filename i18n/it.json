@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Svenimento disattivato (solo per oggi)",
+  "passout-enabled": "Svenimento riattivato",
+  "config.section.passout": "Ora di svenimento",
+  "config.passout-time.name": "Ora di svenimento",
+  "config.passout-time.tooltip": "L'ora in cui il personaggio sviene.",
+  "config.section.hotkeys": "Tasti di scelta rapida",
+  "config.toggle-key.name": "Attiva/Disattiva svenimento",
+  "config.toggle-key.tooltip": "Attiva o disattiva lo svenimento per oggi.",
+  "config.mod-enabled.name": "Mod attivata",
+  "config.mod-enabled.tooltip": "Attiva o disattiva l'intera mod.",
+  "config.morning-light-start.name": "Inizio luce mattutina",
+  "config.morning-light-start.tooltip": "Quando dovrebbe iniziare a schiarirsi il mondo? (Spento = Disabilitato)",
+  "config.morning-light-power.name": "Curva della luce mattutina",
+  "config.morning-light-power.tooltip": "Curva di intensità della luce mattutina, per maggiore realismo. (1 = lineare, 2 = quadrato/inizio più lento, ecc.)",
+  "config.off": "Spento"
+}

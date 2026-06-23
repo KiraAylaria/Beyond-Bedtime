@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Évanouissement désactivé (aujourd'hui seulement)",
+  "passout-enabled": "Évanouissement réactivé",
+  "config.section.passout": "Heure d'évanouissement",
+  "config.passout-time.name": "Heure d'évanouissement",
+  "config.passout-time.tooltip": "Heure à laquelle le personnage s'évanouit.",
+  "config.section.hotkeys": "Raccourcis clavier",
+  "config.toggle-key.name": "Basculer l'évanouissement",
+  "config.toggle-key.tooltip": "Activer/désactiver l'évanouissement pour aujourd'hui.",
+  "config.mod-enabled.name": "Mod activé",
+  "config.mod-enabled.tooltip": "Active ou désactive l'ensemble du mod.",
+  "config.morning-light-start.name": "Début de la lumière matinale",
+  "config.morning-light-start.tooltip": "Quand le monde devrait-il commencer à s'éclaircir ? (Désactivé = Non)",
+  "config.morning-light-power.name": "Courbe de lumière matinale",
+  "config.morning-light-power.tooltip": "Courbe d'intensité de la lumière matinale, pour plus de réalisme. (1 = linéaire, 2 = carré/début plus lent, etc.)",
+  "config.off": "Désactivé"
+}

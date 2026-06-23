@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Ohnmacht deaktiviert (nur heute)",
+  "passout-enabled": "Ohnmacht wieder aktiviert",
+  "config.section.passout": "Ohnmachtszeit",
+  "config.passout-time.name": "Ohnmachtszeit",
+  "config.passout-time.tooltip": "Zeit, zu der der Charakter ohnmächtig wird.",
+  "config.section.hotkeys": "Hotkeys",
+  "config.toggle-key.name": "Ohnmacht umschalten",
+  "config.toggle-key.tooltip": "Ohnmacht für heute aktivieren/deaktivieren.",
+  "config.mod-enabled.name": "Mod Aktiv",
+  "config.mod-enabled.tooltip": "Aktiviert oder deaktiviert die gesamte Mod.",
+  "config.morning-light-start.name": "Start Sonnenaufgang",
+  "config.morning-light-start.tooltip": "Wann soll es morgens anfangen hell zu werden? (Aus = Deaktiviert)",
+  "config.morning-light-power.name": "Lichtintensitäts-Kurve",
+  "config.morning-light-power.tooltip": "Kurve der morgendlichen Lichtintensität, für mehr Realismus. (1 = linear, 2 = quadratisch/langsamer Start, etc.)",
+  "config.off": "Aus"
+}

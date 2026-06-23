@@ -1,0 +1,19 @@
+{
+  "Name": "BeyondBedtime",
+  "Author": "KiraAylaria",
+  "Version": "1.0.0",
+  "Description": "Take control of your sleep schedule! Customize your pass-out time, seamlessly extend the night, and toggle exhaustion on the fly.",
+  "UniqueID": "KiraAylaria.BeyondBedtime",
+  "EntryDll": "BeyondBedtime.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:48060",
+    "GitHub:KiraAylaria/Beyond-Bedtime"
+  ],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "気絶を無効化（今日のみ）",
+  "passout-enabled": "気絶を再有効化",
+  "config.section.passout": "気絶時間",
+  "config.passout-time.name": "気絶時間",
+  "config.passout-time.tooltip": "キャラクターが気絶する時間。",
+  "config.section.hotkeys": "ホットキー",
+  "config.toggle-key.name": "気絶の切り替え",
+  "config.toggle-key.tooltip": "今日の気絶を有効/無効にします。",
+  "config.mod-enabled.name": "Modの有効化",
+  "config.mod-enabled.tooltip": "Mod全体を有効または無効にします。",
+  "config.morning-light-start.name": "朝の光の開始",
+  "config.morning-light-start.tooltip": "いつから世界が明るくなり始めるべきですか？（オフ = 無効）",
+  "config.morning-light-power.name": "朝の光のカーブ",
+  "config.morning-light-power.tooltip": "よりリアルにするための、朝の光の強さのカーブ。（1 = 線形、2 = 二次/ゆっくり始まる など）",
+  "config.off": "オフ"
+}

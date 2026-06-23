@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "昏迷已禁用（仅限今天）",
+  "passout-enabled": "昏迷已重新启用",
+  "config.section.passout": "昏迷时间",
+  "config.passout-time.name": "昏迷时间",
+  "config.passout-time.tooltip": "角色昏迷的时间。",
+  "config.section.hotkeys": "快捷键",
+  "config.toggle-key.name": "切换昏迷",
+  "config.toggle-key.tooltip": "启用或禁用今天的昏迷。",
+  "config.mod-enabled.name": "启用模组",
+  "config.mod-enabled.tooltip": "启用或禁用整个模组。",
+  "config.morning-light-start.name": "晨光开始时间",
+  "config.morning-light-start.tooltip": "世界应该什么时候开始变亮？（关闭 = 禁用）",
+  "config.morning-light-power.name": "晨光曲线",
+  "config.morning-light-power.tooltip": "为了更真实，晨光的强度曲线。（1 = 线性，2 = 平方/开端较慢，等）",
+  "config.off": "关闭"
+}

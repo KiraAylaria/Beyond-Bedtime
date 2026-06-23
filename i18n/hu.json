@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Ájulás kikapcsolva (csak ma)",
+  "passout-enabled": "Ájulás újra bekapcsolva",
+  "config.section.passout": "Ájulás ideje",
+  "config.passout-time.name": "Ájulás ideje",
+  "config.passout-time.tooltip": "Az idő, amikor a karakter elájul.",
+  "config.section.hotkeys": "Gyorsbillentyűk",
+  "config.toggle-key.name": "Ájulás kapcsoló",
+  "config.toggle-key.tooltip": "Ájulás be-/kikapcsolása a mai napra.",
+  "config.mod-enabled.name": "Mod bekapcsolva",
+  "config.mod-enabled.tooltip": "Az egész mod be- vagy kikapcsolása.",
+  "config.morning-light-start.name": "Reggeli fény kezdete",
+  "config.morning-light-start.tooltip": "Mikor kezdjen el világosodni a világ? (Ki = Letiltva)",
+  "config.morning-light-power.name": "Reggeli fény görbe",
+  "config.morning-light-power.tooltip": "A reggeli fény intenzitásának görbéje, a realizmus kedvéért. (1 = lineáris, 2 = négyzetes/lassabb kezdet, stb.)",
+  "config.off": "Ki"
+}

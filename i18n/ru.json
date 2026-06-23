@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Обморок отключен (только сегодня)",
+  "passout-enabled": "Обморок снова включен",
+  "config.section.passout": "Время обморока",
+  "config.passout-time.name": "Время обморока",
+  "config.passout-time.tooltip": "Время, когда персонаж падает в обморок.",
+  "config.section.hotkeys": "Горячие клавиши",
+  "config.toggle-key.name": "Переключить обморок",
+  "config.toggle-key.tooltip": "Включить/отключить обморок на сегодня.",
+  "config.mod-enabled.name": "Мод включен",
+  "config.mod-enabled.tooltip": "Включить или отключить весь мод.",
+  "config.morning-light-start.name": "Начало утреннего света",
+  "config.morning-light-start.tooltip": "Когда мир должен начать светлеть? (Выкл = Отключено)",
+  "config.morning-light-power.name": "Кривая утреннего света",
+  "config.morning-light-power.tooltip": "Кривая интенсивности утреннего света для большего реализма. (1 = линейная, 2 = квадратичная/медленный старт и т.д.)",
+  "config.off": "Выкл"
+}

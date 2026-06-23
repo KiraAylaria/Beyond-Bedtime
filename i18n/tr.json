@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Bayılma devre dışı (sadece bugün)",
+  "passout-enabled": "Bayılma yeniden etkin",
+  "config.section.passout": "Bayılma Saati",
+  "config.passout-time.name": "Bayılma Saati",
+  "config.passout-time.tooltip": "Karakterin bayılacağı saat.",
+  "config.section.hotkeys": "Kısayol Tuşları",
+  "config.toggle-key.name": "Bayılmayı Aç/Kapat",
+  "config.toggle-key.tooltip": "Bugün için bayılmayı aç/kapat.",
+  "config.mod-enabled.name": "Mod Etkin",
+  "config.mod-enabled.tooltip": "Tüm modu etkinleştirin veya devre dışı bırakın.",
+  "config.morning-light-start.name": "Sabah Işığı Başlangıcı",
+  "config.morning-light-start.tooltip": "Dünya ne zaman aydınlanmaya başlamalı? (Kapalı = Devre Dışı)",
+  "config.morning-light-power.name": "Sabah Işığı Eğrisi",
+  "config.morning-light-power.tooltip": "Daha fazla gerçekçilik için sabah ışığı yoğunluk eğrisi. (1 = doğrusal, 2 = karesel/daha yavaş başlangıç, vb.)",
+  "config.off": "Kapalı"
+}

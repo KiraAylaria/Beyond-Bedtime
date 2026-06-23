@@ -1,0 +1,17 @@
+﻿{
+  "passout-disabled": "Passout disabled (today only)",
+  "passout-enabled": "Passout re-enabled",
+  "config.section.passout": "Passout Time",
+  "config.passout-time.name": "Passout Time",
+  "config.passout-time.tooltip": "Time at which the character passes out.",
+  "config.section.hotkeys": "Hotkeys",
+  "config.toggle-key.name": "Toggle Passout",
+  "config.toggle-key.tooltip": "Enable/disable passout for today.",
+  "config.mod-enabled.name": "Mod Enabled",
+  "config.mod-enabled.tooltip": "Enable or disable the entire mod.",
+  "config.morning-light-start.name": "Morning Light Start",
+  "config.morning-light-start.tooltip": "When should the world start getting brighter? (Off = Disabled)",
+  "config.morning-light-power.name": "Morning Light Power",
+  "config.morning-light-power.tooltip": "Morning light power curve, for realism. (1 = linear, 2 = square/slower start, etc.)",
+  "config.off": "Off"
+}
